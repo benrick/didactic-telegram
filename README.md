@@ -1,3 +1,3 @@
 # didactic-telegram
 
-Here is a modificatiion.
+Here is a modification.
